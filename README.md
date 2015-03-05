@@ -25,9 +25,9 @@ backend:
 
 
 	TODO:
-		what is browsersync
-		look up watchify
-		source maps
-		import app not working
-		js hint file
-		jscs file
+		- what is browsersync
+		- look up watchify
+		- source maps
+		- import app not working
+		- js hint file
+		- jscs file
